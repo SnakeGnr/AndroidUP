@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloUP</string>
+    <string name="msg_login_ok">DEU CERTO!</string>
+    <string name="msg_Erro_Log">Login e/ou Senha inválidos!</string>
+</resources>
